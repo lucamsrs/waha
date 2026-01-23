@@ -77,7 +77,7 @@
     "libphonenumber-js": "^1.10.36",
     "libsignal": "github:devlikeapro/libsignal-node#fork-master",
     "link-preview-js": "^3.0.4",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mime-types": "^2.1.27",
     "mongodb": "6.9.0",
     "mustache": "^4.2.0",
